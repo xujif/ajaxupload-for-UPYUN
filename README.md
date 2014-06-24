@@ -1,8 +1,8 @@
 #ajaxupload-for-UPYUN
 又拍云ajax上传插件，基于jquery 和
-因为比赛在gitcafe.com发布https://gitcafe.com/xujif/ajaxupload-for-UPYUN
 [表单api开发](http://wiki.upyun.com/index.php?title=%E8%A1%A8%E5%8D%95API%E6%8E%A5%E5%8F%A3)
 [查看demo](http://1.demo1234.sinaapp.com/ajaxupload/)
+因为比赛在gitcafe.com发布https://gitcafe.com/xujif/ajaxupload-for-UPYUN
 ###使用：
 		$.upload2upyun({
 			bucket:"your bucket",
